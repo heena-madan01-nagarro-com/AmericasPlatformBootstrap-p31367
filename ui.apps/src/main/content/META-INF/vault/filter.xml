@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/americasplatformbootstrap/clientlibs"/>
+    <filter root="/apps/americasplatformbootstrap/components"/>
+    <filter root="/apps/americasplatformbootstrap/i18n"/>
+</workspaceFilter>
